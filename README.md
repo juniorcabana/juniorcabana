@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola,mi nombre es Junior Evert 👋
 
 <!--
 **juniorcabana/juniorcabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
@@ -12,7 +12,7 @@ Soy estudiante de Ingenieria en Telecomunicaciones,llevando actualmente el curso
 ![SpyderIDE](https://img.shields.io/badge/SpyderIDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white&labelColor=101010)</br>
 
 #### Donde encontrarme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/junior-evert-cabana-taco-86a7a9242/)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_Evert_Cabana_Taco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/junior-evert-cabana-taco-86a7a9242/)</br>
 [![Twitter](https://img.shields.io/badge/Twitter-@EverTaco-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/EvertTaco)</br>
 
 #### Donde contactarme:
