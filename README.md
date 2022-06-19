@@ -8,3 +8,5 @@ Soy estudiante de Ingenieria en Telecomunicaciones,llevando actualmente el curso
 #### Where to find me
 - [Twiter](https://twitter.com/EvertTaco)
 - [Gmail](jcabanat@unsa.edu.pe)
+#### Skills
+- [Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
