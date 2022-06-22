@@ -3,7 +3,7 @@
 <!--
 **juniorcabana/juniorcabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-Soy estudiante de Ingenieria en Telecomunicaciones junio 2022,llevando actualmente el curso de Computacion 2 orientada al Data Science ademas de poseer conocimiento previos en lenguajes de programacion como Python y HTML5 para diseño web.
+Soy estudiante de Ingenieria en Telecomunicaciones junio 2022,llevando actualmente el curso de Computacion 2 orientada al Data Science ademas de poseer conocimientos previos en lenguajes de programacion como Python y HTML5 para diseño web.
 
 #### Habilidades:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
